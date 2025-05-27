@@ -15,7 +15,19 @@ Estos vídeos ilustran la eficiencia y el rendimiento del proyecto bajo distinta
 
 ### Push Swap 1 100
 
-[![Push Swap 1 100](https://img.youtube.com/vi/9ZuMgxMO5k8/0.jpg)](https://youtu.be/9ZuMgxMO5k8)
+
+
+https://github.com/user-attachments/assets/09336bfe-3203-4c35-b6b8-e3b06a6e2600
+
+
+
+https://github.com/user-attachments/assets/0103a63a-15f3-408d-8e98-5c5201a7b444
+
+
+
+
+https://github.com/user-attachments/assets/b72ff941-e452-4c0f-9a58-5b1989396b52
+
 
 ## Créditos
 

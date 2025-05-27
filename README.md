@@ -15,18 +15,16 @@ Estos vídeos ilustran la eficiencia y el rendimiento del proyecto bajo distinta
 
 ### Push Swap 1 100
 
+https://github.com/user-attachments/assets/1d53c025-25b7-43eb-907d-9cbaca4038b9
 
+### Push Swap 2 100
 
-https://github.com/user-attachments/assets/09336bfe-3203-4c35-b6b8-e3b06a6e2600
+https://github.com/user-attachments/assets/76478719-778a-4d01-879e-2dd4df2c3e33
 
+### Push Swap 3 100
 
+https://github.com/user-attachments/assets/5c142a43-72df-4ee2-9fc7-42aaa2233667
 
-https://github.com/user-attachments/assets/0103a63a-15f3-408d-8e98-5c5201a7b444
-
-
-
-
-https://github.com/user-attachments/assets/b72ff941-e452-4c0f-9a58-5b1989396b52
 
 
 ## Créditos

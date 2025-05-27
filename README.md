@@ -1,13 +1,6 @@
 # Push_Swap
 
-Este repositorio contiene una serie de vídeos demostrativos sobre el proyecto **Push_Swap**.
-
-## Descripción
-
-El proyecto **Push_Swap** es una herramienta para ordenar pilas de enteros usando un conjunto limitado de operaciones.  
-El objetivo es minimizar la cantidad de movimientos necesarios para ordenar la lista.
-
-Estos vídeos ilustran la eficiencia y el rendimiento del proyecto bajo distintas condiciones, usando diferentes estrategias de ordenamiento.
+Este repositorio el push swap final, pero además tres videos demostrativos de los otros dos algoritmos, Radix, el mio y finalmente el K-Sort.
 
 ---
 
